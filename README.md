@@ -1,4 +1,4 @@
-# Unity-SocketIO-Research
+# Unity-And-SocketIO
 高等学校の課題研究で1年間かけて3Dオンラインリアルタイム共闘アクションゲームの開発を行った。
 システムの構成は主にUnity+Socket.IOである。
 このリポジトリには、それについての最終レポートのPDFファイルを置く。
